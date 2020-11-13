@@ -1,12 +1,11 @@
 const express = require("express");
-const app = express();
 const md5 = require("md5");
+const app = express();
 const redis = require("redis");
 const md5lib = require("md5");
 const { init, sequelize } = require("./database/db");
 const RedisInfo = require("./database/model");
 const utils = require("./utils");
-
 
 app.use(express.urlencoded({urlencoded:true}));
 app.use(express.json());

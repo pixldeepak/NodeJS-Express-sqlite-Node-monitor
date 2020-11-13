@@ -12,7 +12,7 @@
     "url": "git+https://github.com/pixldeepak/NodeJS-Express-sqlite-Redis-monitor.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Deepak Patil",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/pixldeepak/NodeJS-Express-sqlite-Redis-monitor/issues"
