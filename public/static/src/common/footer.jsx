@@ -5,7 +5,7 @@ const Footer = React.createClass({
   render: function() {
     return (
       <p className="footer">
-        <Link to="/">Redis Monitor</Link> &gt; Author By <a target="_blank" href="https://github.com/pixldeepak">Deepak Patil</a>
+        <Link to="/">Redis Monitor</Link> &gt; Author By <a target="_blank" href="https://github.com/hustcc">hustcc</a>
       </p>
     )
   }
