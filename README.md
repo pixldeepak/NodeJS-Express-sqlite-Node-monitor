@@ -4,7 +4,7 @@
  
 <p><b>Note:</b>All the dependencies can be viewed in Package.JSON</p>
 <h2>How to run this Project</h2>
-<h3>Project is hosted on heroku and can be accessed on <a href="https://redis-monitor-kritikal.herokuapp.com/">this </a>link</h3>
+<h3>Project is hosted on heroku and can be accessed on <a href="https://node-express-redis-monitor.herokuapp.com/">this </a>link</h3>
 <p><b>Note:</b>You can create your own redis server at <a href ="https://redislabs.com/" >Redis Labs </a> </p>
 <p>For testing purpose following can be used(just copy and paste them) :</p>
 <ul>
